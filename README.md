@@ -1,11 +1,12 @@
-# Recitation 4 - Requirements
+# Recitation 6 - Requirements
 
 ## Learning Outcomes
 
 By the end of this activity, a student should be able to:
 
-1. Implement a simple Java class from requirements
-2. Use classes to accomplish more complex tasks
+1. Extract classes and behaviors from a requirement document.
+2. Implement a simple Java class from requirements.
+2. Use classes to accomplish more complex tasks.
 
 ## Introduction
 
@@ -25,7 +26,7 @@ An RPS player may also play multiple RPS players at the same time. However, this
 
 ## Extracting the Class and Behavior
 
-In reading the requirements above, it is helpful to highlight the nouns and verbs. The nouns will often indicate a need for a class, and the verbs will be the behaviors that objects of those types need to have.
+In reading the requirements above, it is helpful to highlight the **nouns** and **verbs**. The nouns will often indicate a need for a class, and the verbs will be the behaviors that objects of those types need to have.
 
 ## Recitation Activity
 
